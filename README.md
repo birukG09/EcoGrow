@@ -101,4 +101,4 @@ Commit your changes: git commit -m "Add your feature".
 
 Push to branch: git push origin feature/your-feature-name.
 
-Open a Pull Request on GitHub.
+Open a Pull Request on GitHub. the app is not done it is in progress
