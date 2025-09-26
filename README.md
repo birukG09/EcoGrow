@@ -1,5 +1,5 @@
 # EcoGardenHub – Smart IoT Greenhouse System
-![]()
+![img alt](https://github.com/birukG09/EcoGrow/blob/72903265d84725a45070a9e5f6a6c3ebf6af0f72/Screenshot%202025-09-26%20203348.png)
 ## Overview
 EcoGardenHub is a fully automated, modular, IoT-powered greenhouse system designed to optimize plant growth using sensors, actuators, AI, and cloud integration. The system monitors temperature, humidity, soil moisture, light intensity, and CO2 levels, and automatically controls irrigation, ventilation, and lighting. With web and mobile dashboards, you can monitor and control your greenhouse from anywhere.
 
